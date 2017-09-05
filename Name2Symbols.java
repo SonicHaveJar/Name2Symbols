@@ -34,7 +34,7 @@ public class Name2Symbols {
 		String y = "#   #\n # #\n  #\n #\n#";
 		String z = "######\n    #\n   #\n  #\n######";
 
-		System.out.print("Nombre(Solo minusculas): ");
+		System.out.print("Nombre(Solo minúsculas): ");
 		name = S.nextLine();
 		System.out.println();
 		System.out.println();
